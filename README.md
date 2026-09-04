@@ -1,4 +1,4 @@
-# 🏫 Sunrise Tuition Centre — Class / Teacher / Student Manager
+# 🏫 Moonshine Tuition Centre — Class / Teacher / Student Manager
 
 > **Vibe-coding exercise submission.** This README is the page GitHub shows by default and is the
 > document used to **judge your outcome**. Fill in every section marked `<!-- TODO -->`. Keep the headings.
